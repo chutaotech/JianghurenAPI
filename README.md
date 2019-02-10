@@ -2,6 +2,8 @@
 
 <p align="center"> Jianghuren API SDK.</p>
 
+[![Latest Stable Version](https://poser.pugx.org/chutaotech/jianghuren/v/stable.svg)](https://packagist.org/packages/chutaotech/jianghuren)
+
 
 ## Installing
 
