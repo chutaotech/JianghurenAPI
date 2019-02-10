@@ -1,0 +1,22 @@
+{
+    "name": "chutaotech\/jianghuren",
+    "description": "Jianghuren API SDK",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chutaotech",
+            "email": "develop@chutao.io"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "ext-json": "*",
+        "overtrue/http": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "ChutaoTech\\Jianghuren\\": "src"
+        }
+    }
+}
